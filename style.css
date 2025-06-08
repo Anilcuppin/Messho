@@ -1,13 +1,11 @@
-/* Basic Reset and Global Styles */
 :root {
-    --primary-color: #f43397; /* Meesho Pink */
+    --primary-color: #f43397; 
     --secondary-color: #2b2f4c;
     --text-color: #333;
     --background-color: #f9f9f9;
     --white-color: #ffffff;
     --border-color: #ddd;
 }
-
 * {
     margin: 0;
     padding: 0;
@@ -100,7 +98,7 @@ body {
 }
 
 .hero-content h1 {
-    color: gray;
+    color: darkgrey;
     font-size: 3rem;
     font-weight: 700;
 }
